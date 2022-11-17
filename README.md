@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ograh Joshua .O.
-- 👀 I’m interested in ...Software Engineering
-- 🌱 I’m currently learning ...Software Engineering @ALXafrica
-- 💞️ I’m looking to collaborate on ...Different Project, on website, Mmobile app and Desktop software development
+- 👀 I’m interested in ...Full-Stack Web Development
+- 🌱 I’m currently learning ...Full-Stack Web Development @ALXafrica
+- 💞️ I’m looking to collaborate on ...Different Project, on website, Mmobile app and Desktop website.
 - 📫 How to reach me ...ograhjoshua@gmail.com or on twitter @jasper_185
 
 <!---
